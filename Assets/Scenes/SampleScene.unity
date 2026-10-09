@@ -129,7 +129,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 100000, guid: 49e6ee33250214a9facc214f3a2fecb7, type: 3}
       propertyPath: m_Name
-      value: Coin (4)
+      value: Coin 5
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 49e6ee33250214a9facc214f3a2fecb7, type: 3}
       propertyPath: m_LocalPosition.x
@@ -206,7 +206,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 100000, guid: 49e6ee33250214a9facc214f3a2fecb7, type: 3}
       propertyPath: m_Name
-      value: Coin (3)
+      value: Coin 4
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 49e6ee33250214a9facc214f3a2fecb7, type: 3}
       propertyPath: m_LocalPosition.x
@@ -472,7 +472,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 100000, guid: 49e6ee33250214a9facc214f3a2fecb7, type: 3}
       propertyPath: m_Name
-      value: Coin (2)
+      value: Coin 3
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 49e6ee33250214a9facc214f3a2fecb7, type: 3}
       propertyPath: m_LocalPosition.x
@@ -681,7 +681,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 100000, guid: 49e6ee33250214a9facc214f3a2fecb7, type: 3}
       propertyPath: m_Name
-      value: Coin (6)
+      value: Coin 7
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 49e6ee33250214a9facc214f3a2fecb7, type: 3}
       propertyPath: m_LocalPosition.x
@@ -1312,7 +1312,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 100000, guid: 49e6ee33250214a9facc214f3a2fecb7, type: 3}
       propertyPath: m_Name
-      value: Coin (1)
+      value: Coin 2
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 49e6ee33250214a9facc214f3a2fecb7, type: 3}
       propertyPath: m_LocalPosition.x
@@ -1427,7 +1427,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 100000, guid: 49e6ee33250214a9facc214f3a2fecb7, type: 3}
       propertyPath: m_Name
-      value: Coin (5)
+      value: Coin 6
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 49e6ee33250214a9facc214f3a2fecb7, type: 3}
       propertyPath: m_LocalPosition.x
@@ -50832,7 +50832,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 100000, guid: 49e6ee33250214a9facc214f3a2fecb7, type: 3}
       propertyPath: m_Name
-      value: Coin
+      value: Coin 1
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 49e6ee33250214a9facc214f3a2fecb7, type: 3}
       propertyPath: m_LocalPosition.x
